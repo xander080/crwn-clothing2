@@ -1,6 +1,6 @@
 import "./App.css";
 
-import Hompage from "./hompage";
+import Hompage from "./pages/hompage/hompage";
 
 function App() {
   return <Hompage />;
